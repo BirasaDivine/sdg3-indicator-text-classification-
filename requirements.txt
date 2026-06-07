@@ -1,0 +1,13 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+nltk
+wordcloud
+sentence-transformers
+transformers
+accelerate
+joblib
+lightgbm
